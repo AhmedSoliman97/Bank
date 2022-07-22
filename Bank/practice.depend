@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1656697585 source:c:\users\ahmedsoliman\desktop\c interview\practice\main.cpp
+	<iostream>
+	<map>
+	<unordered_map>
+
+1656896129 source:c:\users\ahmedsoliman\desktop\codeblocks\practice\main.cpp
+	<iostream>
+	"Bank.h"
+	"account.h"
+
+1656896460 c:\users\ahmedsoliman\desktop\codeblocks\practice\include\account.h
+	<iostream>
+
+1656896461 c:\users\ahmedsoliman\desktop\codeblocks\practice\include\bank.h
+	<iostream>
+	<unordered_map>
+
+1656892786 source:c:\users\ahmedsoliman\desktop\codeblocks\practice\src\account.cpp
+	<stdlib.h>
+	<time.h>
+	"account.h"
+
+1656875080 source:c:\users\ahmedsoliman\desktop\codeblocks\practice\src\bank.cpp
+	"account.h"
+	"Bank.h"
+
+1656901131 source:c:\users\ahmedsoliman\desktop\codeblocks\practice1\main.cpp
+	<iostream>
+	"Bank.h"
+	"account.h"
+
+1656900173 c:\users\ahmedsoliman\desktop\codeblocks\practice1\include\bank.h
+	<iostream>
+	<map>
+
+1656901158 c:\users\ahmedsoliman\desktop\codeblocks\practice1\include\account.h
+	<iostream>
+
+1656896497 source:c:\users\ahmedsoliman\desktop\codeblocks\practice1\src\account.cpp
+	<stdlib.h>
+	<time.h>
+	"account.h"
+
+1656901044 source:c:\users\ahmedsoliman\desktop\codeblocks\practice1\src\bank.cpp
+	"account.h"
+	"Bank.h"
+
